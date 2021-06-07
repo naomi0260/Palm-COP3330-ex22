@@ -3,9 +3,8 @@ package ex22;
 import java.util.Scanner;
 
 /*
-Enter the first number: 1
-Enter the second number: 51
-Enter the third number: 2
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Naomi Palm
  */
 
 
